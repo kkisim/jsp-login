@@ -69,7 +69,7 @@
         <h2>회원탈퇴</h2>
         <form action="withdraw1.jsp" method="post">
             <div class="form-group">
-                <label for="id">아이디</label>
+                <label for="id">아이디를 한번 더 입력해주세요 </label>
                 <input type="text" name="id" id="id" placeholder="아이디 입력" required>
             </div>
             <input type="submit" value="회원탈퇴하기" class="submit-button">

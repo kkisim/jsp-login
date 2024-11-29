@@ -36,6 +36,8 @@
  }
  if(dao.insert(user)){
 	 out.print("회원가입 완료");
+	 response.sendRedirect("index.html");
+	 
  }else{
 	 out.print("회원 가입 처리중 오류가 발생하였습니다.");
  }

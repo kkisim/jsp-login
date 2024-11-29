@@ -86,6 +86,8 @@
                     <div class="buttons">
                         <a href="feedAddForm.jsp"><button>글쓰기</button></a>
                         <a href="logout.jsp"><button>로그아웃</button></a>
+                        <a href="withdrawForm.jsp"><button>회원탈퇴</button></a>
+                        <a href="updateForm.jsp"><button>회원정보 수정</button></a>
                     </div>
                 </th>
             </tr>

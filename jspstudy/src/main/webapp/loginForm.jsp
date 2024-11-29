@@ -94,7 +94,7 @@
             </div>
         </form>
         <div class="signup-link">
-            <p>아직 회원이 아니신가요? <a href="signupForm22.html">회원가입</a></p>
+            <p>아직 회원이 아니신가요? <a href="signupForm.jsp">회원가입</a></p>
         </div>
     </div>
 </body>
